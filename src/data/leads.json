@@ -1,0 +1,204 @@
+[
+  {
+    "Name": "AI-Powered Agent for Engineering Education",
+    "Organization": "USC",
+    "Contact": "Professor Penkova",
+    "Email": "penkova@usc.edu",
+    "Areas": "AI Agent, LLM, RAG, Tool Calling",
+    "Priority": "S",
+    "Type": "Research Opportunity",
+    "url": "https://www.cs.usc.edu/newsletter/ms-phd-research-opportunities-in-ml-dl-projects-9/",
+    "id": "USC-01"
+  },
+  {
+    "Name": "Bruce Wilcox AI Agent / RelSim Research",
+    "Organization": "USC ISE",
+    "Contact": "Bruce Wilcox",
+    "Areas": "AI Agent, SQL, Synthetic Data, Cloud",
+    "Priority": "S",
+    "Type": "Research Lab / Faculty Research",
+    "url": "https://sites.usc.edu/bwilcox/summer-2026-research-project-activities/",
+    "id": "USC-02"
+  },
+  {
+    "Name": "FORTIS Lab Research",
+    "Organization": "USC",
+    "Contact": "Yue Zhao",
+    "Areas": "Trustworthy AI, Agent Safety, LLM",
+    "Priority": "S",
+    "Type": "Research Lab",
+    "url": "https://viterbi-web.usc.edu/~yzhao010/lab",
+    "id": "USC-03"
+  },
+  {
+    "Name": "Center on Knowledge Graphs Research",
+    "Organization": "USC ISI",
+    "Areas": "Knowledge Graph, RAG, Data Science",
+    "Priority": "S",
+    "Type": "Research Lab",
+    "url": "https://www.isi.edu/centers-ckg/projects/current-projects/",
+    "id": "USC-04"
+  },
+  {
+    "Name": "INK Lab Research",
+    "Organization": "USC",
+    "Contact": "Xiang Ren",
+    "Email": "xiangren@usc.edu",
+    "Areas": "NLP, Knowledge Reasoning, LLM",
+    "Priority": "A",
+    "Type": "Research Lab",
+    "url": "https://inklab.usc.edu/contact.html",
+    "id": "USC-05"
+  },
+  {
+    "Name": "TEPPIT LLM Privacy Research",
+    "Organization": "USC ISI",
+    "Areas": "LLM, Python, Privacy Engineering",
+    "Priority": "A",
+    "Type": "Student Worker / Research",
+    "url": "https://www.cs.usc.edu/newsletter/ms-phd-open-gra-position-with-teppit-project/",
+    "id": "USC-06"
+  },
+  {
+    "Name": "iPodia Student Developer",
+    "Organization": "USC Viterbi",
+    "Email": "ipodia@usc.edu",
+    "Areas": "AI Product, Backend, Copilot Agent",
+    "Priority": "A",
+    "Type": "Student Developer",
+    "url": "https://www.cs.usc.edu/newsletter/ms-ipodia-student-developer-opportunity/",
+    "id": "USC-07"
+  },
+  {
+    "Name": "Research Paper-to-Visual Web App #1085",
+    "Organization": "USC ISI",
+    "Areas": "Document Parsing, AI Product, Full Stack",
+    "Priority": "A",
+    "Type": "Student Developer",
+    "Compensation": "Unpaid",
+    "Work Mode": "On-site",
+    "url": "https://studentjobs.isi.edu/ms-students?1085",
+    "id": "USC-08"
+  },
+  {
+    "Name": "ICAROS Lab Research Assistant",
+    "Organization": "USC",
+    "Areas": "Robotics, Foundation Models, VLA",
+    "Priority": "B",
+    "Type": "Research Lab",
+    "url": "https://www.cs.usc.edu/newsletter/ug-ms-icaros-lab-research-assistant-positions/",
+    "id": "USC-09"
+  },
+  {
+    "Name": "JEEVANI Autonomous Water Rescue",
+    "Organization": "USC",
+    "Email": "lkatkar@usc.edu",
+    "Areas": "AI/ML, Cloud Engineering, AI Product",
+    "Priority": "B",
+    "Type": "Research Volunteer",
+    "url": "https://www.cs.usc.edu/newsletter/ug-ms-student-volunteers-wanted-join-the-jeevani-project/",
+    "id": "USC-10"
+  },
+  {
+    "Name": "Penkova ML/DL Research Projects",
+    "Organization": "USC",
+    "Email": "penkova@usc.edu",
+    "Areas": "Machine Learning, Deep Learning, CV",
+    "Priority": "B",
+    "Type": "Research Opportunity",
+    "url": "https://www.cs.usc.edu/newsletter/ms-phd-research-opportunities-in-ml-dl-projects-8/",
+    "id": "USC-11"
+  },
+  {
+    "Name": "ISI Natural Language Group",
+    "Organization": "USC ISI",
+    "Areas": "NLP, Machine Learning, LLM",
+    "Priority": "B",
+    "Type": "Research Lab",
+    "url": "https://www.isi.edu/research-groups-nlg/get-involved/",
+    "id": "USC-12"
+  },
+  {
+    "Name": "ISI MINDS Research",
+    "Organization": "USC ISI",
+    "Areas": "Machine Learning, Data Engineering",
+    "Priority": "B",
+    "Type": "Research Lab",
+    "url": "https://viterbigrad.usc.edu/isi-student-positions/",
+    "id": "USC-13"
+  },
+  {
+    "Name": "Medical Machine Learning / Computer Vision",
+    "Organization": "USC",
+    "Areas": "Machine Learning, Computer Vision",
+    "Priority": "B",
+    "Type": "Project-Based Research",
+    "url": "https://www.cs.usc.edu/newsletter/ug-ms-paid-internship-on-a-project-basis-for-ug-or-ms-students-interested-in-machine-learning-and-computer-vision/",
+    "id": "USC-14"
+  },
+  {
+    "Name": "USC Economics Computer Vision Research",
+    "Organization": "USC Economics",
+    "Areas": "Computer Vision, Data Pipeline",
+    "Priority": "B",
+    "Type": "Historical Student Worker Opportunity",
+    "Availability": "Historical / Potentially Closed",
+    "url": "https://www.cs.usc.edu/newsletter/ms-phd-paid-student-worker-computer-vision-on-school-facilities-usc-economics/",
+    "id": "USC-15"
+  },
+  {
+    "Name": "Annenberg Media Digital Product",
+    "Organization": "USC Annenberg",
+    "Areas": "UX, Product Design, Web Development",
+    "Priority": "B",
+    "Type": "Historical Product Opportunity",
+    "Availability": "Historical / Potentially Closed",
+    "url": "https://www.cs.usc.edu/newsletter/ug-ms-phd-interested-in-digital-product-design-and-development-unpaid-opportunities-at-annenberg-media-2/",
+    "id": "USC-16"
+  },
+  {
+    "Name": "ISI Summer Research Internship",
+    "Organization": "USC ISI",
+    "Areas": "AI, NLP, Systems Research",
+    "Priority": "A",
+    "Type": "Summer Research Program",
+    "url": "https://studentjobs.isi.edu/summer-research-internships/",
+    "id": "USC-17"
+  },
+  {
+    "Name": "ISE 590 Directed Research",
+    "Organization": "USC ISE",
+    "Areas": "AI, Analytics, Research",
+    "Priority": "A",
+    "Type": "Directed Research",
+    "url": "https://sites.usc.edu/bwilcox/directed-research-overview/",
+    "id": "USC-18"
+  },
+  {
+    "Name": "CSCI 590 Directed Research",
+    "Organization": "USC Computer Science",
+    "Areas": "AI, Machine Learning, Systems",
+    "Priority": "A",
+    "Type": "Directed Research",
+    "url": "https://www.cs.usc.edu/students/directed-research/",
+    "id": "USC-19"
+  },
+  {
+    "Name": "USC Handshake On-Campus Jobs",
+    "Organization": "USC",
+    "Areas": "Research Assistant, Student Worker",
+    "Priority": "B",
+    "Type": "Opportunity Portal",
+    "url": "https://careers.usc.edu/channels/on-campus-jobs/",
+    "id": "USC-20"
+  },
+  {
+    "Name": "ISI MS Student Application Portal",
+    "Organization": "USC ISI",
+    "Areas": "Research, Student Worker, Development",
+    "Priority": "A",
+    "Type": "Application Portal",
+    "url": "https://studentjobs.isi.edu/ms-students/",
+    "id": "USC-21"
+  }
+]
